@@ -72,10 +72,10 @@ export default function Start() {
       </ButtonsContainer>
       <Footer>
         <FooterLink
-          href="https://github.com/mirayatech/tic-tac-emoji"
+          href="https://github.com/EUG96ene/EmojiMatch-game"
           target="_blank"
         >
-          Made with love by Miraya 🤍
+          Made  by Eugene 
         </FooterLink>
       </Footer>
     </Wrapper>
