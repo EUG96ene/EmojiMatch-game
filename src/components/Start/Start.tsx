@@ -75,7 +75,7 @@ export default function Start() {
           href="https://github.com/EUG96ene/EmojiMatch-game"
           target="_blank"
         >
-          Made  by Eugene 
+          Made  by Eugene Oduor  
         </FooterLink>
       </Footer>
     </Wrapper>
