@@ -58,7 +58,7 @@ export default function Start() {
         <Emoji>{emoji}</Emoji>
       </Square>
       <Title>
-        Tic Tac&nbsp;
+        Emoji Match&nbsp;
         <TypeAnimation
           sequence={["Toe", 2000, "Emoji", 2000]}
           wrapper="span"
