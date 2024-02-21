@@ -23,7 +23,7 @@ export default function SinglePlayerMode() {
     >
       <PlayerCard>
         <StyledTitle>
-          <h1>Select the Game Mode</h1>
+          <h1>Select the Game Mode🍔 </h1>
         </StyledTitle>
 
         <ButtonsContainer>
